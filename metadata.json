@@ -1,0 +1,5 @@
+{
+  "name": "Stash App",
+  "description": "A personal bookmark manager that uses AI to automatically summarize and tag web articles. Save links, get key insights instantly, and organize your content library effortlessly with AI-powered categorization and search.",
+  "requestFramePermissions": []
+}
